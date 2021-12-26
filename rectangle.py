@@ -7,5 +7,5 @@ class Rectangle:
         self.y = y
         self.x = x
 
-    def draw(self,canvas):
+    def draw(self, canvas):
         pass
