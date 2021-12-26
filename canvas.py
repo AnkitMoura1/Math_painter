@@ -1,5 +1,6 @@
-import  numpy as np
+import numpy as np
 from PIL import Image
+
 
 class Canvas:
 
@@ -8,5 +9,6 @@ class Canvas:
         self.height = height
         self.color = color
 
+    def make(self, file_name):
+       pass
 
-    def make(self,file_name):
